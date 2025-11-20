@@ -5,7 +5,7 @@ const tracksData = [
     artist: "The Weekend",
     time: "4:25",
     album: "none",
-    src: "https://data04.chiasenhac.com/downloads/1519/2/1518407-343d2a02/320/The%20Hills%20-%20The%20Weeknd.mp3",
+    src: "https://zingmp3.vn/album/Anh-Thua-Anh-Ta-Single-Gia-Huy-Singer/6CEEU0I8.html",
     active: false,
   },
   {
